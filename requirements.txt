@@ -1,0 +1,7 @@
+
+streamlit
+groq
+scikit-learn
+pandas
+joblib
+protobuf>=6,<7
